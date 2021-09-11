@@ -1,0 +1,12 @@
+[package]
+name = "xcel"
+version = "0.1.0"
+authors = ["Neil"]
+edition = "2018"
+description = "A rust library to manipulate excel files"
+license = "MIT"
+repository = "https://github.com/rust-xcel/xcel"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
